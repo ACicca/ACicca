@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi! I'm Andrea
 
-<!--
-**ACicca/ACicca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀 I am a Software Engineer with experience in mobile Android development, specializing in Jetpack Compose and Kotlin. Besides mobile, I also work on backend, databases, Python, and web development.
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Mobile Development: Kotlin, Java, Jetpack Compose, Flutter, React Native
+
+🗄️ Databases: Room, SQLite, Firebase
+
+🖥️ Web: HTML, CSS, JavaScript, React
+
+
+📫 Contact Me
+
+💼 LinkedIn: www.linkedin.com/in/a-ciccarello
+
+📧 Email: andreaciccarello2@gmail.com
+
+
+
+🔹 Always learning, always coding! 🚀
