@@ -1,6 +1,6 @@
 👋 Hi! I'm Andrea
 
-Welcome to my GitHub profile! 🚀 I am a Software Engineer with experience in mobile Android development, specializing in Jetpack Compose and Kotlin. Besides mobile, I also work on backend, databases, Python, and web development.
+Welcome to my GitHub profile! 🚀 I am a Software Engineer with experience in mobile Android development, specializing in Kotlin, Java, Compose.
 
 🔧 Technologies & Tools
 
